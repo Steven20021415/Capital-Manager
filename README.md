@@ -1,4 +1,4 @@
 # Capital-Manager
-Capital Manager est une application de gestion de budget simple et complète. Notez vos dépenses chaque jour, suivez votre mois en un coup d’œil et laissez l’application recalculer vos efforts quand un imprévu vient perturber votre plan. Disponible en français et en anglais.
+Capital Manager is a simple, complete budgeting app. Log your expenses every day, follow your month at a glance and let the app recalculate your plan when something unexpected disrupts it. Available in French and English.
 
 Link : https://capitalmanagerhome.netlify.app/
